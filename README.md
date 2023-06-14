@@ -1,2 +1,2 @@
 # GBG Games
-https://static1.srcdn.com/wordpress/wp-content/uploads/2021/05/How-Nintendo-Game-Builder-Garage-Makes-Learning-Programming-Easier-2.jpg
+![image](https://github.com/ChaseRerun/ChaseRerun.github.io/assets/136543556/12e84fbc-e801-4889-bc6e-86973d5b220f)
